@@ -1,6 +1,6 @@
 import numpy as np
 
-def cholesky_decomposition(A):  #cholesky1
+def cholesky_decomposition(A):
     """
     A must be a symetric positive-definite matrix.
     """
